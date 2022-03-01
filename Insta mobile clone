@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+        
+    </head>
+    <script src="https://kit.fontawesome.com/b144e6efed.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="insta.css">
+   <body>
+        <div class="outter"> 
+            <div class="second_container">
+                <div class="inner_container">
+                    <span id="holder">
+                        <i class="fa fa-arrow-left"></i>
+                        <h3>agba_akin</h3>
+                        <i class="fa fa-ellipsis-vertical"></i>
+                    </span>
+                    <span id="content">
+                    <img src="Agba pic.jpg" alt="" style="height: 90px; width: auto; border-radius: 50%; margin-left: 5px;">
+                    <div class="header_post">
+                        <span class="header_post_attrtibute" id="post">
+                            <h3 id="numbers">21</h3>
+                            <p id="page">posts</p>
+                        </span>
+                        <span class="header_post_attrtibute" id="followers">
+                            <h3 id="numbers">11.3K</h3>
+                            <p id="page">followers</p>
+                        </span>
+                        <span class="header_post_attrtibute" id="following">
+                            <h3 id="numbers">930</h3>
+                            <p id="page">following</p>
+                        </span>
+                    </div>
+                    </span>
+                    <span class="bio">
+                        <p>Tech, Lecturer <a href="">@aptLearn_io</a>, Founder/CEO</p>
+                        <p><a href="">@Theswiftspeed</a>, senior software engineer <a href="">@swiftspeedapp</a>. I teach coding with Twitter thread. Learn to code</p>
+                    </span>
+                    <span class="btn">
+                        <button class="btn1">follow</button>
+                        <button class="btn2">message</button>
+                        <button class="btn3"><i class="fa fa-angle-down"></i></button>
+                    </span>
+                    <span class="stories">
+                        <img src="agba2.jpg" alt="" style="height: 60px; width: 60px; border-radius: 50%; margin-left: 5px; margin-top: 20px;">
+                        <img src="agba1.jpg" alt="" style="height: 60px; width: 60px; border-radius: 50%; margin-left: 5px; margin-top: 20px;">
+                        <img src="agba6.jpg" alt="" style="height: 60px; width: 60px; border-radius: 50%; margin-left: 5px; margin-top: 20px;">
+                        <img src="Agba pic.jpg" alt="" style="height: 60px; width: 60px; border-radius: 50%; margin-left: 5px; margin-top: 20px;">
+                    </span>
+                    <span class="images_post">
+                        <img src="agba4.jpg" alt="" style="height: 15vh; width: 6vw; margin-left: 1px; margin-top: 20px;">
+                        <img src="agba5.jpg" alt="" style="height: 15vh; width: 6vw; margin-left: 1px; margin-top: 20px;">
+                        <img src="agba1.jpg" alt="" style="height: 15vh; width: 6vw; margin-left: 1px; margin-top: 20px;">
+                    </span>
+                    <span class="foot">
+                        <div ><i class="fa fa-house"></i></div>
+                        <div><i class="fa fa-search"></i></div>
+                        <div><i class="fa-solid fa-photo-film"></i></div>
+                        <div><i class="fa fa-heart"></i></div>
+                        <div><img src="Agba pic.jpg" alt="" style="height: 3vh; width: auto; margin-left: 30px;border-radius: 50%">
+                        </div>
+                    </span>
+                </div>
+
+            </div>
+
+        </div>
+    </body>
+</html>
